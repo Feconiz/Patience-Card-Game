@@ -1,0 +1,210 @@
+[
+  {
+    "suit": "HEART",
+    "value": "ACE"
+  },
+  {
+    "suit": "SPADE",
+    "value": "ACE"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "ACE"
+  },
+  {
+    "suit": "CLUB",
+    "value": "ACE"
+  },
+  {
+    "suit": "HEART",
+    "value": "TWO"
+  },
+  {
+    "suit": "SPADE",
+    "value": "TWO"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "TWO"
+  },
+  {
+    "suit": "CLUB",
+    "value": "TWO"
+  },
+  {
+    "suit": "HEART",
+    "value": "THREE"
+  },
+  {
+    "suit": "SPADE",
+    "value": "THREE"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "THREE"
+  },
+  {
+    "suit": "CLUB",
+    "value": "THREE"
+  },
+  {
+    "suit": "HEART",
+    "value": "FOUR"
+  },
+  {
+    "suit": "SPADE",
+    "value": "FOUR"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "FOUR"
+  },
+  {
+    "suit": "CLUB",
+    "value": "FOUR"
+  },
+  {
+    "suit": "HEART",
+    "value": "FIVE"
+  },
+  {
+    "suit": "SPADE",
+    "value": "FIVE"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "FIVE"
+  },
+  {
+    "suit": "CLUB",
+    "value": "FIVE"
+  },
+  {
+    "suit": "HEART",
+    "value": "SIX"
+  },
+  {
+    "suit": "SPADE",
+    "value": "SIX"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "SIX"
+  },
+  {
+    "suit": "CLUB",
+    "value": "SIX"
+  },
+  {
+    "suit": "HEART",
+    "value": "SEVEN"
+  },
+  {
+    "suit": "SPADE",
+    "value": "SEVEN"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "SEVEN"
+  },
+  {
+    "suit": "CLUB",
+    "value": "SEVEN"
+  },
+  {
+    "suit": "HEART",
+    "value": "EIGHT"
+  },
+  {
+    "suit": "SPADE",
+    "value": "EIGHT"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "EIGHT"
+  },
+  {
+    "suit": "CLUB",
+    "value": "EIGHT"
+  },
+  {
+    "suit": "HEART",
+    "value": "NINE"
+  },
+  {
+    "suit": "SPADE",
+    "value": "NINE"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "NINE"
+  },
+  {
+    "suit": "CLUB",
+    "value": "NINE"
+  },
+  {
+    "suit": "HEART",
+    "value": "TEN"
+  },
+  {
+    "suit": "SPADE",
+    "value": "TEN"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "TEN"
+  },
+  {
+    "suit": "CLUB",
+    "value": "TEN"
+  },
+  {
+    "suit": "HEART",
+    "value": "JACK"
+  },
+  {
+    "suit": "SPADE",
+    "value": "JACK"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "JACK"
+  },
+  {
+    "suit": "CLUB",
+    "value": "JACK"
+  },
+  {
+    "suit": "HEART",
+    "value": "QUEEN"
+  },
+  {
+    "suit": "SPADE",
+    "value": "QUEEN"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "QUEEN"
+  },
+  {
+    "suit": "CLUB",
+    "value": "QUEEN"
+  },
+  {
+    "suit": "HEART",
+    "value": "KING"
+  },
+  {
+    "suit": "SPADE",
+    "value": "KING"
+  },
+  {
+    "suit": "DIAMOND",
+    "value": "KING"
+  },
+  {
+    "suit": "CLUB",
+    "value": "KING"
+  }
+]

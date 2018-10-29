@@ -1,0 +1,66 @@
+{
+  "numberOfEntries": 10,
+  "board": [
+    {
+      "name": "Jeff",
+      "score": 495,
+      "colour": "CYAN",
+      "wasAssisted": true
+    },
+    {
+      "name": "Feconiz",
+      "score": 490,
+      "colour": "MAGENTA",
+      "wasAssisted": true
+    },
+    {
+      "name": "\u003cEmpty\u003e",
+      "score": 0,
+      "colour": "BLACK",
+      "wasAssisted": false
+    },
+    {
+      "name": "\u003cEmpty\u003e",
+      "score": 0,
+      "colour": "BLACK",
+      "wasAssisted": false
+    },
+    {
+      "name": "\u003cEmpty\u003e",
+      "score": 0,
+      "colour": "BLACK",
+      "wasAssisted": false
+    },
+    {
+      "name": "\u003cEmpty\u003e",
+      "score": 0,
+      "colour": "BLACK",
+      "wasAssisted": false
+    },
+    {
+      "name": "\u003cEmpty\u003e",
+      "score": 0,
+      "colour": "BLACK",
+      "wasAssisted": false
+    },
+    {
+      "name": "\u003cEmpty\u003e",
+      "score": 0,
+      "colour": "BLACK",
+      "wasAssisted": false
+    },
+    {
+      "name": "\u003cEmpty\u003e",
+      "score": 0,
+      "colour": "BLACK",
+      "wasAssisted": false
+    },
+    {
+      "name": "\u003cEmpty\u003e",
+      "score": 0,
+      "colour": "BLACK",
+      "wasAssisted": false
+    }
+  ],
+  "isBiggerBetter": true
+}
